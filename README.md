@@ -1,5 +1,7 @@
 # Stop-watch
 A simple program to make a stopwatch
+Html processor-Pug
+Css processor-stylus
 
 ![image](https://github.com/Coder-5657/Stop-watch/assets/157788773/49e7671a-4337-41d5-b56c-70d83a2493c4)
 
